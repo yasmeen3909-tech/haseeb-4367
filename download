@@ -1,0 +1,8 @@
+.wrangler/
+.git/
+node_modules/
+wrangler.jsonc
+wrangler.toml
+*.log
+*.txt
+*.md
